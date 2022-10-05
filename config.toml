@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Cosmos of Murphy"
+theme = "fuji"
+
+showLicense = true
+showToc = true
+showComments = true
