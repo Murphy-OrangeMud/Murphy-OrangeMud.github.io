@@ -17,5 +17,7 @@ Let's test the math functions
 $O(log(n))$
 $$E = mc^2$$
 
+We can see that math functions are not supported yet. We will patch this later.
+
 And when I finish deploying it I will edit this post.
 
