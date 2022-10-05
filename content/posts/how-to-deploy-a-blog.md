@@ -5,7 +5,6 @@ draft: false
 ---
 
 ## Let's test the effect of the headings!
-
 This is my first blog in hugos and I write it just to test the features in fuji theme.
 
 ``` OCaml
@@ -13,11 +12,19 @@ This is my first blog in hugos and I write it just to test the features in fuji 
 let first_var = "hello hugo";;
 ```
 
-Let's test the math functions
-$O(log(n))$
-$$E = mc^2$$
+Let's test the math functions:
 
-We can see that math functions are not supported yet. We will patch this later.
+$ O(log(n)) $
+$ E = mc^2 $
 
-And when I finish deploying it I will edit this post.
+
+## Register and choose my own domain
+After consulting a friend I chose to buy a new domain in namesilo. It's a website that looks like a scam website but its service is the best among all the domain providers.
+
+## Why I finally choose Github Pages
+In fact I chose Vercel and Cloudflare for blog deployment at first because I think Github Pages doesn't sound very cool. But after struggling with vercel and cloudflare for hours I turned back to Github Pages Because the product of Vercel and Cloudflare are just bare HTML without rendering the theme and I don't know why. Will try to figure that later. I see someone applied Github Action to Vercel to optimize the Vercel workflow in ![this post](https://olich.me/post/building-a-personal-blog-with-hugo-and-vercel/). I will try that later and deploy multi replicas on Cloudflare and Vercel.
+
+## What to do
+Apart from tidying and personalizing my blog, I'll try the features of Cloudflare of CDN to test the performance of my blog.
+
 

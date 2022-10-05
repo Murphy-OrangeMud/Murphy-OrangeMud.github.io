@@ -6,3 +6,30 @@ theme = "fuji"
 showLicense = true
 showToc = true
 showComments = true
+
+[params.page.code]
+copy = true
+maxShownLines = 10
+
+[params.page.math]
+enable = true
+blockLeftDelimiter = ""
+blockRightDelimiter = ""
+inlineLeftDelimiter = ""
+inlineRightDelimiter = ""
+copyTex = true
+mhchem = true
+
+[params.page.share]
+enable = true
+Twitter = true
+Facebook = true
+Linkedin = true
+Hackernews = true
+Reddit = true
+Weibo = false
+Baidu = false
+
+[params.page.comment]
+enable = true
+
