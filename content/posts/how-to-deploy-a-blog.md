@@ -12,7 +12,7 @@ This is my first blog in hugos and I write it just to test the features in fuji 
 let first_var = "hello hugo";;
 ```
 
-``` C++
+``` cpp
 /*
  * This is my self-made template for Codeforces contests!
  */

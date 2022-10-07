@@ -2,6 +2,7 @@
 title: "How Fast Can M1 Chip Run Tensorflow"
 date: 2022-10-07T15:06:53-04:00
 draft: false
+tags: ["M1 Mac"]
 ---
 
 This post is translated from Simplified Chinese Version from [my post here](https://zhuanlan.zhihu.com/p/478696535), originally posted in March, 2022.
