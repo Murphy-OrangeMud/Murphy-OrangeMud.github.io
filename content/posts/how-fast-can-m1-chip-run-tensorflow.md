@@ -11,7 +11,7 @@ Having heard of the amazing computing power of M1-chip long before, I can't miss
 ### Install Tensorflow on M1 Mac
 As a friend of bugs who fought with Python for hundreds of times, I still stepped into trouble during my installation. At first I used conda and reinstalled several times but after each installation I met the problem:
 
-``` python
+```
 >>> import tensorflow as tf
 zsh: illegal hardware instruction  python
 ```
@@ -129,7 +129,8 @@ ERROR: Could not build wheels for h5py, which is required to install pyproject.t
 ```
 
 We must install hdf5 using homebrew first:
-```
+
+``` bash
 arch -arm64 brew install hdf5
 ```
 
@@ -154,7 +155,7 @@ export HDF5_DIR=/opt/homebrew/
 ```
 
 And we run:
-``` 
+``` bash
 $ pip install tensorflow-macos
 $ pip install tensorflow-metal
 ```
@@ -216,11 +217,17 @@ with tf.device('/GPU:0'):
 ```
 
 The references for these code are:
+
 https://zhuanlan.zhihu.com/p/463931687
+
 https://www.tensorflow.org/tutorials/quickstart/beginner
+
 https://www.analyticsvidhya.com/blog/2021/11/benchmarking-cpu-and-gpu-performance-with-tensorflow/
+
 https://tensorflow.juejin.im/community/benchmarks.html
+
 https://stackoverflow.com/questions/69687794/unable-to-manually-load-cifar10-dataset
+
 
 ### The Result
 
