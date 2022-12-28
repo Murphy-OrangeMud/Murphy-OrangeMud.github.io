@@ -6,7 +6,7 @@ draft: false
 
 ### What have I changed
 
-Go to USA and be a new anarchist and programmer.
+Go to USA and be a new ~~anarchist~~ programmer.
 
 ### What did I learn
 
@@ -16,6 +16,13 @@ Projects: Ocaml-raft (unfinished), Tor-Weather
 
 Achievements: Become expert on Codeforces, Know how to start a project fast.
 
+Technologies: 
+QUIC protocol, 
+DNS filtering and sniffing, 
+Tor network, 
+Monad, 
+Coroutines, 
+some Natural Language Processing cutting-edge knowledge
 
 Below is written in simplified Chinese.
 
