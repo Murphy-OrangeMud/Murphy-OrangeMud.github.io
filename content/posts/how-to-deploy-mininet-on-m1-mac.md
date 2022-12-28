@@ -5,8 +5,6 @@ draft: false
 tags: ["M1 Mac"]
 ---
 
-This post is translated and modified from Simplified Chinese Version from [my post here](https://zhuanlan.zhihu.com/p/478696535), originally posted in May, 2022.
-
 On M1 Mac, we can't walkthrough Mininet's official tutorial because it used Virtualbox, which is not supported on M1 Mac ~~and have no recent announcement on this work~~. So we'll try Qemu.
 
 First download Mininet Image from [this link](https://github.com/mininet/mininet/releases)
