@@ -67,6 +67,11 @@ After consulting a friend I chose to buy a new domain in namesilo. It's a websit
 ## Why I finally choose Github Pages
 In fact I chose Vercel and Cloudflare for blog deployment at first because I think Github Pages doesn't sound very cool. But after struggling with vercel and cloudflare for hours I turned back to Github Pages Because the product of Vercel and Cloudflare are just bare HTML without rendering the theme and I don't know why. Will try to figure that later. I see someone applied Github Action to Vercel to optimize the Vercel workflow in [this post](https://olich.me/post/building-a-personal-blog-with-hugo-and-vercel/). I will try that later and deploy multi replicas on Cloudflare and Vercel.
 
+## Test for foriegn languages
+简体中文
+繁體中文
+日本語
+
 ## What to do
 Apart from tidying and personalizing my blog, I'll try the features of Cloudflare of CDN to test the performance of my blog.
 

@@ -5,8 +5,6 @@ draft: false
 tags: ["M1 Mac"]
 ---
 
-This post is translated from Simplified Chinese Version from [my post here](https://zhuanlan.zhihu.com/p/478696535), originally posted in March, 2022.
-
 Having heard of the amazing computing power of M1-chip long before, I can't miss a chance to try on my M1 Mac (2020 Mbp with M1 Chip) in excitement. Because of my little experience on Tensorflow, I compared using some example codes and didn't carry out large-scale benchmarks.
 
 ### Install Tensorflow on M1 Mac
