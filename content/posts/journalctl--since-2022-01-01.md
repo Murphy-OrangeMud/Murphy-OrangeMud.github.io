@@ -4,7 +4,7 @@ date: 2022-12-28T13:45:10-05:00
 draft: false
 ---
 
-Below are written in Simplified Chinese.
+This post is written in simplified Chinese.
 
 ### What I read
 
@@ -82,8 +82,6 @@ Below are written in Simplified Chinese.
 
 《瓦尔登湖》：三刷。（读完对梭罗只有羡慕，好像已经适应了这样浮躁的状态了）
 
-
-
 ### What I forget
 
 《黄金圈住地：广州的美国商人群体与美国对华政策的形成》
@@ -116,8 +114,6 @@ Below are written in Simplified Chinese.
 
 《王立宇宙军》。
 
-
-
 ### What I watch
 
 《Hamilton》。
@@ -139,8 +135,6 @@ Below are written in Simplified Chinese.
 《纸牌屋》（第一季）：有点感觉第二季以后逐渐离谱。
 
 《V字仇杀队》：白纸革命之际二刷。V是一种理想，信念，而不是一个具体的人。我们每个人都可以是V。（不过感觉中国比那个时候的伦敦恶劣得多了大概。）
-
-
 
 ### What I haven't finish
 
