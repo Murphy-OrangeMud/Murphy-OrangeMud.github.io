@@ -1,10 +1,23 @@
 ---
-title: "Journalctl --since 2022-01-01 | grep books"
+title: "Journalctl --since 2022-01-01"
 date: 2022-12-28T13:45:10-05:00
 draft: false
 ---
 
-This post is written in simplified Chinese.
+### What have I changed
+
+Go to USA and be a new anarchist and programmer.
+
+### What did I learn
+
+Programming Languages: OCaml, Rust(basic), Swift, TypeScript, JavaScript, ReScript(basic)
+
+Projects: Ocaml-raft (unfinished), Tor-Weather
+
+Achievements: Become expert on Codeforces, Know how to start a project fast.
+
+
+Below is written in simplified Chinese.
 
 ### What I read
 
@@ -159,4 +172,5 @@ This post is written in simplified Chinese.
 《信息论基础》。
 
 《数值分析》。
+
 
